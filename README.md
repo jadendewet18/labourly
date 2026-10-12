@@ -1,16 +1,30 @@
-# React + Vite
+# 🛠️ Labourly — Construction Payroll & Workforce Management
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+🚀 **Live Application:** [View Labourly Live](https://labourly-coral.vercel.app/)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📌 What It Does
+Labourly is a modern web application built to streamline workforce and payroll management for construction teams and contractors. It replaces messy paperwork and manual spreadsheets by providing a centralized platform to:
+* **Log and track working hours** for workers across active job sites.
+* **Manage personnel directories** and individual worker profiles/pay rates.
+* **Calculate automated payrolls** instantly to minimize calculation errors.
+* **Generate and preview payslips** with professional digital modals.
+* **Manage multiple sites/tenants** seamlessly under secure user accounts.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 💡 Why It Was Built
+Managing payroll and hours in the construction industry can be chaotic, error-prone, and time-consuming. **Labourly** was built to solve this exact problem—providing a fast, reliable, and user-friendly digital solution that contractors and small construction businesses can use to keep track of their workforce, ensure accurate payouts, and save hours of administrative work.
 
-## Expanding the Oxlint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## 🛠️ Tech Stack
+* **Frontend:** React.js, Tailwind CSS, Vite
+* **Authentication & Database:** Firebase Auth & Firestore
+* **State & Logic:** Modern JavaScript (ES6+), React Hooks
+
+---
+
+## 📄 License
+This project is open-source and available under the [MIT License](LICENSE).
